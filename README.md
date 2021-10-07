@@ -3,5 +3,5 @@ Filamentous structures are ubiquitous in biology, helping organisms to maintain 
 The proposed research achieves this goal in three tasks: 1) Developing a framework to reconstruct 3D geometry from microscopic images of filamentous structures. 2) Implementing the framework on an example problem of a set of videos of bacterial flagella stretching in a shear flow. 3) Performing force and deformation analyses on geometries reconstructed in (2).
 
 HERE IS A PREVIEW OF THE RESULTS THAT OUR FRAMEWORK PRODUCES: (Paper to be published soon!) <br>
-simulated images are generated from the 3D geometries obtained from the genetic algorithm optimization on the microscopic iamges.
+simulated images are generated from the 3D geometries obtained from the genetic algorithm optimization on the microscopic iamges. <br>
 ![image](https://user-images.githubusercontent.com/43859339/136455233-2ead0a27-aa84-4357-91a5-fb2387949b82.png)
