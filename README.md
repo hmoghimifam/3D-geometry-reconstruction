@@ -6,5 +6,4 @@ HERE IS A PREVIEW OF THE RESULTS THAT OUR FRAMEWORK PRODUCES: (Paper to be publi
 simulated images are generated from the 3D geometries obtained from the genetic algorithm optimization on the microscopic iamges. <br>
 ![image](https://user-images.githubusercontent.com/43859339/136455233-2ead0a27-aa84-4357-91a5-fb2387949b82.png) <br>
 THE METHOD IS EASILY IMPLEMENTED ON STACKS OF IMAGES TOO!<br>
-
-
+![3D_geom](https://user-images.githubusercontent.com/43859339/141023608-5d0ed951-360e-4c65-abd7-095c493668eb.jpg)
