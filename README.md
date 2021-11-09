@@ -4,4 +4,7 @@ The proposed research achieves this goal in three tasks: 1) Developing a framewo
 
 HERE IS A PREVIEW OF THE RESULTS THAT OUR FRAMEWORK PRODUCES: (Paper to be published soon!) <br>
 simulated images are generated from the 3D geometries obtained from the genetic algorithm optimization on the microscopic iamges. <br>
-![image](https://user-images.githubusercontent.com/43859339/136455233-2ead0a27-aa84-4357-91a5-fb2387949b82.png)
+![image](https://user-images.githubusercontent.com/43859339/136455233-2ead0a27-aa84-4357-91a5-fb2387949b82.png) <br>
+THE METHOD IS EASILY IMPLEMENTED ON STACKS OF IMAGES TOO!<br>
+
+
